@@ -1,0 +1,1934 @@
+----------------------------------------
+Testando com features de 0 a 14
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.1124
+Testando com features de 14 a 28
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.11238333333333334
+Testando com features de 28 a 42
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.1148
+Testando com features de 42 a 56
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.11521666666666666
+Testando com features de 56 a 70
+Tempo de treinamento: 0.03 segundos
+Acurácia: 0.13625
+Testando com features de 70 a 84
+Tempo de treinamento: 0.03 segundos
+Acurácia: 0.15983333333333333
+Testando com features de 84 a 98
+Tempo de treinamento: 0.04 segundos
+Acurácia: 0.18013333333333334
+Testando com features de 98 a 112
+Tempo de treinamento: 0.07 segundos
+Acurácia: 0.23865
+Testando com features de 112 a 126
+Tempo de treinamento: 0.09 segundos
+Acurácia: 0.2982666666666667
+Testando com features de 126 a 140
+Tempo de treinamento: 0.17 segundos
+Acurácia: 0.47433333333333333
+Testando com features de 140 a 154
+Tempo de treinamento: 0.15 segundos
+Acurácia: 0.4709833333333333
+Testando com features de 154 a 168
+Tempo de treinamento: 0.3 segundos
+Acurácia: 0.7237333333333333
+Testando com features de 168 a 182
+Tempo de treinamento: 0.22 segundos
+Acurácia: 0.60785
+Testando com features de 182 a 196
+Tempo de treinamento: 0.39 segundos
+Acurácia: 0.8477333333333333
+Testando com features de 196 a 210
+Tempo de treinamento: 0.32 segundos
+Acurácia: 0.7416
+Testando com features de 210 a 224
+Tempo de treinamento: 0.46 segundos
+Acurácia: 0.8963
+Testando com features de 224 a 238
+Tempo de treinamento: 0.32 segundos
+Acurácia: 0.803
+Testando com features de 238 a 252
+Tempo de treinamento: 0.48 segundos
+Acurácia: 0.9194833333333333
+Testando com features de 252 a 266
+Tempo de treinamento: 0.34 segundos
+Acurácia: 0.8182166666666667
+Testando com features de 266 a 280
+Tempo de treinamento: 0.46 segundos
+Acurácia: 0.9165833333333333
+Testando com features de 280 a 294
+Tempo de treinamento: 0.34 segundos
+Acurácia: 0.82475
+Testando com features de 294 a 308
+Tempo de treinamento: 0.45 segundos
+Acurácia: 0.91125
+Testando com features de 308 a 322
+Tempo de treinamento: 0.34 segundos
+Acurácia: 0.84335
+Testando com features de 322 a 336
+Tempo de treinamento: 0.41 segundos
+Acurácia: 0.9116166666666666
+Testando com features de 336 a 350
+Tempo de treinamento: 0.33 segundos
+Acurácia: 0.8567666666666667
+Testando com features de 350 a 364
+Tempo de treinamento: 0.4 segundos
+Acurácia: 0.9234333333333333
+Testando com features de 364 a 378
+Tempo de treinamento: 0.34 segundos
+Acurácia: 0.8561166666666666
+Testando com features de 378 a 392
+Tempo de treinamento: 0.42 segundos
+Acurácia: 0.9319333333333333
+Testando com features de 392 a 406
+Tempo de treinamento: 0.35 segundos
+Acurácia: 0.8614666666666667
+Testando com features de 406 a 420
+Tempo de treinamento: 0.45 segundos
+Acurácia: 0.9336166666666667
+Testando com features de 420 a 434
+Tempo de treinamento: 0.34 segundos
+Acurácia: 0.84335
+Testando com features de 434 a 448
+Tempo de treinamento: 0.42 segundos
+Acurácia: 0.9313666666666667
+Testando com features de 448 a 462
+Tempo de treinamento: 0.33 segundos
+Acurácia: 0.8038833333333333
+Testando com features de 462 a 476
+Tempo de treinamento: 0.42 segundos
+Acurácia: 0.9252666666666667
+Testando com features de 476 a 490
+Tempo de treinamento: 0.3 segundos
+Acurácia: 0.7755
+Testando com features de 490 a 504
+Tempo de treinamento: 0.39 segundos
+Acurácia: 0.9147
+Testando com features de 504 a 518
+Tempo de treinamento: 0.29 segundos
+Acurácia: 0.7491833333333333
+Testando com features de 518 a 532
+Tempo de treinamento: 0.39 segundos
+Acurácia: 0.9019166666666667
+Testando com features de 532 a 546
+Tempo de treinamento: 0.31 segundos
+Acurácia: 0.7471333333333333
+Testando com features de 546 a 560
+Tempo de treinamento: 0.39 segundos
+Acurácia: 0.8806166666666667
+Testando com features de 560 a 574
+Tempo de treinamento: 0.32 segundos
+Acurácia: 0.7712166666666667
+Testando com features de 574 a 588
+Tempo de treinamento: 0.35 segundos
+Acurácia: 0.8467
+Testando com features de 588 a 602
+Tempo de treinamento: 0.33 segundos
+Acurácia: 0.7791833333333333
+Testando com features de 602 a 616
+Tempo de treinamento: 0.32 segundos
+Acurácia: 0.7868666666666667
+Testando com features de 616 a 630
+Tempo de treinamento: 0.31 segundos
+Acurácia: 0.7254
+Testando com features de 630 a 644
+Tempo de treinamento: 0.25 segundos
+Acurácia: 0.6738666666666666
+Testando com features de 644 a 658
+Tempo de treinamento: 0.27 segundos
+Acurácia: 0.6694666666666667
+Testando com features de 658 a 672
+Tempo de treinamento: 0.19 segundos
+Acurácia: 0.5699666666666666
+Testando com features de 672 a 686
+Tempo de treinamento: 0.15 segundos
+Acurácia: 0.4465166666666667
+Testando com features de 686 a 700
+Tempo de treinamento: 0.11 segundos
+Acurácia: 0.3794166666666667
+Testando com features de 700 a 714
+Tempo de treinamento: 0.07 segundos
+Acurácia: 0.2672333333333333
+Testando com features de 714 a 728
+Tempo de treinamento: 0.05 segundos
+Acurácia: 0.2397
+Testando com features de 728 a 742
+Tempo de treinamento: 0.03 segundos
+Acurácia: 0.18306666666666666
+Testando com features de 742 a 756
+Tempo de treinamento: 0.03 segundos
+Acurácia: 0.16533333333333333
+Testando com features de 756 a 770
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.11993333333333334
+Testando com features de 770 a 784
+Tempo de treinamento: 0.01 segundos
+Acurácia: 0.12003333333333334
+Conjunto selecionado: (np.int64(406), np.int64(420)) com acurácia 0.9336
+Conjuntos atuais: [(np.int64(406), np.int64(420))]
+----------------------------------------
+Testando com features de 0 a 14
+Tempo de treinamento: 0.41 segundos
+Acurácia: 0.9336166666666667
+Testando com features de 14 a 28
+Tempo de treinamento: 0.41 segundos
+Acurácia: 0.9336166666666667
+Testando com features de 28 a 42
+Tempo de treinamento: 0.43 segundos
+Acurácia: 0.9337
+Testando com features de 42 a 56
+Tempo de treinamento: 0.43 segundos
+Acurácia: 0.93375
+Testando com features de 56 a 70
+Tempo de treinamento: 0.44 segundos
+Acurácia: 0.9346333333333333
+Testando com features de 70 a 84
+Tempo de treinamento: 0.49 segundos
+Acurácia: 0.9367666666666666
+Testando com features de 84 a 98
+Tempo de treinamento: 0.54 segundos
+Acurácia: 0.9400833333333334
+Testando com features de 98 a 112
+Tempo de treinamento: 0.61 segundos
+Acurácia: 0.9472333333333334
+Testando com features de 112 a 126
+Tempo de treinamento: 0.58 segundos
+Acurácia: 0.9544833333333334
+Testando com features de 126 a 140
+Tempo de treinamento: 0.65 segundos
+Acurácia: 0.9700833333333333
+Testando com features de 140 a 154
+Tempo de treinamento: 0.67 segundos
+Acurácia: 0.97495
+Testando com features de 154 a 168
+Tempo de treinamento: 0.79 segundos
+Acurácia: 0.9922833333333333
+Testando com features de 168 a 182
+Tempo de treinamento: 0.74 segundos
+Acurácia: 0.9867
+Testando com features de 182 a 196
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9978333333333333
+Testando com features de 196 a 210
+Tempo de treinamento: 0.79 segundos
+Acurácia: 0.9912666666666666
+Testando com features de 210 a 224
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 224 a 238
+Tempo de treinamento: 0.81 segundos
+Acurácia: 0.9920166666666667
+Testando com features de 238 a 252
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9982333333333333
+Testando com features de 252 a 266
+Tempo de treinamento: 0.82 segundos
+Acurácia: 0.9914166666666666
+Testando com features de 266 a 280
+Tempo de treinamento: 0.88 segundos
+Acurácia: 0.99755
+Testando com features de 280 a 294
+Tempo de treinamento: 0.8 segundos
+Acurácia: 0.9913333333333333
+Testando com features de 294 a 308
+Tempo de treinamento: 0.9 segundos
+Acurácia: 0.9965333333333334
+Testando com features de 308 a 322
+Tempo de treinamento: 0.83 segundos
+Acurácia: 0.9927666666666667
+Testando com features de 322 a 336
+Tempo de treinamento: 1.18 segundos
+Acurácia: 0.9949333333333333
+Testando com features de 336 a 350
+Tempo de treinamento: 0.86 segundos
+Acurácia: 0.9949166666666667
+Testando com features de 350 a 364
+Tempo de treinamento: 0.93 segundos
+Acurácia: 0.99265
+Testando com features de 364 a 378
+Tempo de treinamento: 0.81 segundos
+Acurácia: 0.9957333333333334
+Testando com features de 378 a 392
+Tempo de treinamento: 0.92 segundos
+Acurácia: 0.9873166666666666
+Testando com features de 392 a 406
+Tempo de treinamento: 0.82 segundos
+Acurácia: 0.9949666666666667
+Testando com features de 420 a 434
+Tempo de treinamento: 0.8 segundos
+Acurácia: 0.9952833333333333
+Testando com features de 434 a 448
+Tempo de treinamento: 0.89 segundos
+Acurácia: 0.9892166666666666
+Testando com features de 448 a 462
+Tempo de treinamento: 0.77 segundos
+Acurácia: 0.9956666666666667
+Testando com features de 462 a 476
+Tempo de treinamento: 0.85 segundos
+Acurácia: 0.9956333333333334
+Testando com features de 476 a 490
+Tempo de treinamento: 0.76 segundos
+Acurácia: 0.9946166666666667
+Testando com features de 490 a 504
+Tempo de treinamento: 0.84 segundos
+Acurácia: 0.9969333333333333
+Testando com features de 504 a 518
+Tempo de treinamento: 0.75 segundos
+Acurácia: 0.9929
+Testando com features de 518 a 532
+Tempo de treinamento: 0.85 segundos
+Acurácia: 0.9977166666666667
+Testando com features de 532 a 546
+Tempo de treinamento: 0.79 segundos
+Acurácia: 0.9934166666666666
+Testando com features de 546 a 560
+Tempo de treinamento: 0.84 segundos
+Acurácia: 0.99815
+Testando com features de 560 a 574
+Tempo de treinamento: 0.8 segundos
+Acurácia: 0.99465
+Testando com features de 574 a 588
+Tempo de treinamento: 0.84 segundos
+Acurácia: 0.9974666666666666
+Testando com features de 588 a 602
+Tempo de treinamento: 0.8 segundos
+Acurácia: 0.9952
+Testando com features de 602 a 616
+Tempo de treinamento: 0.79 segundos
+Acurácia: 0.9959
+Testando com features de 616 a 630
+Tempo de treinamento: 0.77 segundos
+Acurácia: 0.9925166666666667
+Testando com features de 630 a 644
+Tempo de treinamento: 0.73 segundos
+Acurácia: 0.9905166666666667
+Testando com features de 644 a 658
+Tempo de treinamento: 0.74 segundos
+Acurácia: 0.9860333333333333
+Testando com features de 658 a 672
+Tempo de treinamento: 0.67 segundos
+Acurácia: 0.9805166666666667
+Testando com features de 672 a 686
+Tempo de treinamento: 0.62 segundos
+Acurácia: 0.9653166666666667
+Testando com features de 686 a 700
+Tempo de treinamento: 0.59 segundos
+Acurácia: 0.9623666666666667
+Testando com features de 700 a 714
+Tempo de treinamento: 0.52 segundos
+Acurácia: 0.9440666666666667
+Testando com features de 714 a 728
+Tempo de treinamento: 0.51 segundos
+Acurácia: 0.9435333333333333
+Testando com features de 728 a 742
+Tempo de treinamento: 0.48 segundos
+Acurácia: 0.9364833333333333
+Testando com features de 742 a 756
+Tempo de treinamento: 0.47 segundos
+Acurácia: 0.9365333333333333
+Testando com features de 756 a 770
+Tempo de treinamento: 0.45 segundos
+Acurácia: 0.9338833333333333
+Testando com features de 770 a 784
+Tempo de treinamento: 0.44 segundos
+Acurácia: 0.93385
+Conjunto selecionado: (np.int64(210), np.int64(224)) com acurácia 0.9985
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224))]
+----------------------------------------
+Testando com features de 0 a 14
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 14 a 28
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 28 a 42
+Tempo de treinamento: 0.92 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 42 a 56
+Tempo de treinamento: 0.95 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 56 a 70
+Tempo de treinamento: 0.94 segundos
+Acurácia: 0.9986166666666667
+Testando com features de 70 a 84
+Tempo de treinamento: 0.97 segundos
+Acurácia: 0.9987
+Testando com features de 84 a 98
+Tempo de treinamento: 0.98 segundos
+Acurácia: 0.9990166666666667
+Testando com features de 98 a 112
+Tempo de treinamento: 1.12 segundos
+Acurácia: 0.9990833333333333
+Testando com features de 112 a 126
+Tempo de treinamento: 1.02 segundos
+Acurácia: 0.9993833333333333
+Testando com features de 126 a 140
+Tempo de treinamento: 1.18 segundos
+Acurácia: 0.99945
+Testando com features de 140 a 154
+Tempo de treinamento: 1.17 segundos
+Acurácia: 0.99975
+Testando com features de 154 a 168
+Tempo de treinamento: 1.32 segundos
+Acurácia: 0.9997166666666667
+Testando com features de 168 a 182
+Tempo de treinamento: 1.2 segundos
+Acurácia: 0.9998833333333333
+Testando com features de 182 a 196
+Tempo de treinamento: 1.41 segundos
+Acurácia: 0.9996333333333334
+Testando com features de 196 a 210
+Tempo de treinamento: 1.34 segundos
+Acurácia: 0.9998666666666667
+Testando com features de 224 a 238
+Tempo de treinamento: 1.29 segundos
+Acurácia: 0.9999
+Testando com features de 238 a 252
+Tempo de treinamento: 1.37 segundos
+Acurácia: 0.9994
+Testando com features de 252 a 266
+Tempo de treinamento: 1.3 segundos
+Acurácia: 0.9998833333333333
+Testando com features de 266 a 280
+Tempo de treinamento: 1.38 segundos
+Acurácia: 0.99975
+Testando com features de 280 a 294
+Tempo de treinamento: 1.3 segundos
+Acurácia: 0.9999
+Testando com features de 294 a 308
+Tempo de treinamento: 1.35 segundos
+Acurácia: 0.9999166666666667
+Testando com features de 308 a 322
+Tempo de treinamento: 1.28 segundos
+Acurácia: 0.9999166666666667
+Testando com features de 322 a 336
+Tempo de treinamento: 1.43 segundos
+Acurácia: 0.9997833333333334
+Testando com features de 336 a 350
+Tempo de treinamento: 1.29 segundos
+Acurácia: 0.99995
+Testando com features de 350 a 364
+Tempo de treinamento: 1.38 segundos
+Acurácia: 0.9993833333333333
+Testando com features de 364 a 378
+Tempo de treinamento: 1.26 segundos
+Acurácia: 0.9999166666666667
+Testando com features de 378 a 392
+Tempo de treinamento: 1.33 segundos
+Acurácia: 0.99935
+Testando com features de 392 a 406
+Tempo de treinamento: 1.28 segundos
+Acurácia: 0.9999333333333333
+Testando com features de 420 a 434
+Tempo de treinamento: 1.29 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 434 a 448
+Tempo de treinamento: 1.38 segundos
+Acurácia: 0.9997833333333334
+Testando com features de 448 a 462
+Tempo de treinamento: 1.27 segundos
+Acurácia: 0.99995
+Testando com features de 462 a 476
+Tempo de treinamento: 1.34 segundos
+Acurácia: 0.9999333333333333
+Testando com features de 476 a 490
+Tempo de treinamento: 1.25 segundos
+Acurácia: 0.9998666666666667
+Testando com features de 490 a 504
+Tempo de treinamento: 1.41 segundos
+Acurácia: 0.99995
+Testando com features de 504 a 518
+Tempo de treinamento: 1.25 segundos
+Acurácia: 0.9998666666666667
+Testando com features de 518 a 532
+Tempo de treinamento: 1.36 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 532 a 546
+Tempo de treinamento: 1.27 segundos
+Acurácia: 0.9998666666666667
+Testando com features de 546 a 560
+Tempo de treinamento: 1.32 segundos
+Acurácia: 0.99995
+Testando com features de 560 a 574
+Tempo de treinamento: 1.27 segundos
+Acurácia: 0.9998333333333334
+Testando com features de 574 a 588
+Tempo de treinamento: 1.37 segundos
+Acurácia: 0.9999166666666667
+Testando com features de 588 a 602
+Tempo de treinamento: 1.3 segundos
+Acurácia: 0.9998333333333334
+Testando com features de 602 a 616
+Tempo de treinamento: 1.3 segundos
+Acurácia: 0.9999166666666667
+Testando com features de 616 a 630
+Tempo de treinamento: 1.24 segundos
+Acurácia: 0.9995
+Testando com features de 630 a 644
+Tempo de treinamento: 1.24 segundos
+Acurácia: 0.9996
+Testando com features de 644 a 658
+Tempo de treinamento: 1.24 segundos
+Acurácia: 0.9992666666666666
+Testando com features de 658 a 672
+Tempo de treinamento: 1.16 segundos
+Acurácia: 0.9992833333333333
+Testando com features de 672 a 686
+Tempo de treinamento: 1.1 segundos
+Acurácia: 0.9989833333333333
+Testando com features de 686 a 700
+Tempo de treinamento: 1.09 segundos
+Acurácia: 0.9990166666666667
+Testando com features de 700 a 714
+Tempo de treinamento: 1.06 segundos
+Acurácia: 0.9986833333333334
+Testando com features de 714 a 728
+Tempo de treinamento: 1.02 segundos
+Acurácia: 0.9986333333333334
+Testando com features de 728 a 742
+Tempo de treinamento: 0.98 segundos
+Acurácia: 0.9985166666666667
+Testando com features de 742 a 756
+Tempo de treinamento: 0.96 segundos
+Acurácia: 0.9985
+Testando com features de 756 a 770
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9984833333333333
+Testando com features de 770 a 784
+Tempo de treinamento: 0.91 segundos
+Acurácia: 0.9984833333333333
+Conjunto selecionado: (np.int64(420), np.int64(434)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434))]
+----------------------------------------
+Testando com features de 0 a 14
+Tempo de treinamento: 1.32 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 14 a 28
+Tempo de treinamento: 1.31 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 28 a 42
+Tempo de treinamento: 1.33 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 42 a 56
+Tempo de treinamento: 1.37 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 56 a 70
+Tempo de treinamento: 1.34 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 70 a 84
+Tempo de treinamento: 1.39 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 84 a 98
+Tempo de treinamento: 1.37 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 98 a 112
+Tempo de treinamento: 1.47 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 112 a 126
+Tempo de treinamento: 1.45 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.66 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.6 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 1.75 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 196 a 210
+Tempo de treinamento: 1.69 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 1.74 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.74 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 1.78 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 1.76 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 378 a 392
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.78 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 434 a 448
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.76 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 462 a 476
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.74 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 490 a 504
+Tempo de treinamento: 1.79 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 1.74 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 518 a 532
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.74 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 546 a 560
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 1.76 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.69 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.68 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.65 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 672 a 686
+Tempo de treinamento: 1.52 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.47 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 700 a 714
+Tempo de treinamento: 1.41 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.46 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 728 a 742
+Tempo de treinamento: 1.38 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.37 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 756 a 770
+Tempo de treinamento: 1.39 segundos
+Acurácia: 0.9999666666666667
+Testando com features de 770 a 784
+Tempo de treinamento: 1.33 segundos
+Acurácia: 0.9999666666666667
+Conjunto selecionado: (np.int64(112), np.int64(126)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126))]
+----------------------------------------
+Testando com features de 0 a 14
+Tempo de treinamento: 1.46 segundos
+Acurácia: 1.0
+Testando com features de 14 a 28
+Tempo de treinamento: 1.45 segundos
+Acurácia: 1.0
+Testando com features de 28 a 42
+Tempo de treinamento: 1.47 segundos
+Acurácia: 1.0
+Testando com features de 42 a 56
+Tempo de treinamento: 1.59 segundos
+Acurácia: 1.0
+Testando com features de 56 a 70
+Tempo de treinamento: 1.48 segundos
+Acurácia: 1.0
+Testando com features de 70 a 84
+Tempo de treinamento: 1.53 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.57 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.68 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.75 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.71 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.78 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.05 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.78 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.79 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.75 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.71 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.6 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.66 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.59 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.69 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.56 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.71 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(0), np.int64(14)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14))]
+----------------------------------------
+Testando com features de 14 a 28
+Tempo de treinamento: 1.62 segundos
+Acurácia: 1.0
+Testando com features de 28 a 42
+Tempo de treinamento: 1.56 segundos
+Acurácia: 1.0
+Testando com features de 42 a 56
+Tempo de treinamento: 1.5 segundos
+Acurácia: 1.0
+Testando com features de 56 a 70
+Tempo de treinamento: 1.51 segundos
+Acurácia: 1.0
+Testando com features de 70 a 84
+Tempo de treinamento: 1.59 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.57 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.66 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.72 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.68 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.76 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 1.99 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.81 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.75 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.68 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.63 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.59 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.6 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.54 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.51 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.49 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.48 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(14), np.int64(28)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28))]
+----------------------------------------
+Testando com features de 28 a 42
+Tempo de treinamento: 1.49 segundos
+Acurácia: 1.0
+Testando com features de 42 a 56
+Tempo de treinamento: 1.48 segundos
+Acurácia: 1.0
+Testando com features de 56 a 70
+Tempo de treinamento: 1.5 segundos
+Acurácia: 1.0
+Testando com features de 70 a 84
+Tempo de treinamento: 1.53 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.54 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.62 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.75 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.7 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 1.83 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.82 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.78 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.7 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.74 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.62 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.61 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.64 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.54 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.5 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.49 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(28), np.int64(42)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42))]
+----------------------------------------
+Testando com features de 42 a 56
+Tempo de treinamento: 1.53 segundos
+Acurácia: 1.0
+Testando com features de 56 a 70
+Tempo de treinamento: 1.51 segundos
+Acurácia: 1.0
+Testando com features de 70 a 84
+Tempo de treinamento: 1.57 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.55 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.79 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.03 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.01 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.09 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.02 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 2.07 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 2.25 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 2.49 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.9 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.74 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.72 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.7 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.61 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.57 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.52 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.54 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(42), np.int64(56)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42)), (np.int64(42), np.int64(56))]
+----------------------------------------
+Testando com features de 56 a 70
+Tempo de treinamento: 1.54 segundos
+Acurácia: 1.0
+Testando com features de 70 a 84
+Tempo de treinamento: 1.67 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.58 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.72 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 2.02 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 2.01 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.24 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.25 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.37 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.05 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 2.2 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.93 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.87 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 2119.1 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.01 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 2.31 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 2.3 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 2.81 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 2.41 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 2.02 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.78 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.63 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.69 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.6 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(56), np.int64(70)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42)), (np.int64(42), np.int64(56)), (np.int64(56), np.int64(70))]
+----------------------------------------
+Testando com features de 70 a 84
+Tempo de treinamento: 1.63 segundos
+Acurácia: 1.0
+Testando com features de 84 a 98
+Tempo de treinamento: 1.64 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 1.72 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.86 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.84 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 2.21 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 2.23 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 2.03 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.38 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 2.34 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 2.23 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.26 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.18 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.32 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.38 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.17 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.12 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.19 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 2.03 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 1.98 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 2.12 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 1.99 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 1.92 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 1.95 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.73 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.7 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.77 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.64 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.65 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.74 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(70), np.int64(84)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42)), (np.int64(42), np.int64(56)), (np.int64(56), np.int64(70)), (np.int64(70), np.int64(84))]
+----------------------------------------
+Testando com features de 84 a 98
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 98 a 112
+Tempo de treinamento: 2.05 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 2.11 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 1.91 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 2.38 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 2.56 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 2.72 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.21 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 2.22 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 2.42 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.31 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.35 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.11 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 2.12 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 2.12 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.3 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 2.41 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 2.28 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.25 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 2.32 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 2.23 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 2.25 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 2.07 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 2.02 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 2766.08 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 2.0 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.96 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.85 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 2.48 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 2.78 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 2.18 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(84), np.int64(98)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42)), (np.int64(42), np.int64(56)), (np.int64(56), np.int64(70)), (np.int64(70), np.int64(84)), (np.int64(84), np.int64(98))]
+----------------------------------------
+Testando com features de 98 a 112
+Tempo de treinamento: 1.89 segundos
+Acurácia: 1.0
+Testando com features de 126 a 140
+Tempo de treinamento: 1.94 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 2.23 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 2.21 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.14 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 2.2 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.19 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.2 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.12 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.22 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.21 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 2.21 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 2.17 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.27 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 2.09 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 2.25 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 2.08 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.19 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546
+Tempo de treinamento: 2.07 segundos
+Acurácia: 1.0
+Testando com features de 546 a 560
+Tempo de treinamento: 2.22 segundos
+Acurácia: 1.0
+Testando com features de 560 a 574
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 574 a 588
+Tempo de treinamento: 2.32 segundos
+Acurácia: 1.0
+Testando com features de 588 a 602
+Tempo de treinamento: 2.16 segundos
+Acurácia: 1.0
+Testando com features de 602 a 616
+Tempo de treinamento: 2.13 segundos
+Acurácia: 1.0
+Testando com features de 616 a 630
+Tempo de treinamento: 2.09 segundos
+Acurácia: 1.0
+Testando com features de 630 a 644
+Tempo de treinamento: 2.07 segundos
+Acurácia: 1.0
+Testando com features de 644 a 658
+Tempo de treinamento: 2.06 segundos
+Acurácia: 1.0
+Testando com features de 658 a 672
+Tempo de treinamento: 2.04 segundos
+Acurácia: 1.0
+Testando com features de 672 a 686
+Tempo de treinamento: 1.99 segundos
+Acurácia: 1.0
+Testando com features de 686 a 700
+Tempo de treinamento: 2.1 segundos
+Acurácia: 1.0
+Testando com features de 700 a 714
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 714 a 728
+Tempo de treinamento: 1.97 segundos
+Acurácia: 1.0
+Testando com features de 728 a 742
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 742 a 756
+Tempo de treinamento: 1.88 segundos
+Acurácia: 1.0
+Testando com features de 756 a 770
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Testando com features de 770 a 784
+Tempo de treinamento: 1.8 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(98), np.int64(112)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(406), np.int64(420)), (np.int64(210), np.int64(224)), (np.int64(420), np.int64(434)), (np.int64(112), np.int64(126)), (np.int64(0), np.int64(14)), (np.int64(14), np.int64(28)), (np.int64(28), np.int64(42)), (np.int64(42), np.int64(56)), (np.int64(56), np.int64(70)), (np.int64(70), np.int64(84)), (np.int64(84), np.int64(98)), (np.int64(98), np.int64(112))]
+----------------------------------------
+Testando com features de 126 a 140
+Tempo de treinamento: 2.18 segundos
+Acurácia: 1.0
+Testando com features de 140 a 154
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 154 a 168
+Tempo de treinamento: 2.3 segundos
+Acurácia: 1.0
+Testando com features de 168 a 182
+Tempo de treinamento: 2.32 segundos
+Acurácia: 1.0
+Testando com features de 182 a 196
+Tempo de treinamento: 2.33 segundos
+Acurácia: 1.0
+Testando com features de 196 a 210
+Tempo de treinamento: 2.34 segundos
+Acurácia: 1.0
+Testando com features de 224 a 238
+Tempo de treinamento: 2.28 segundos
+Acurácia: 1.0
+Testando com features de 238 a 252
+Tempo de treinamento: 2.52 segundos
+Acurácia: 1.0
+Testando com features de 252 a 266
+Tempo de treinamento: 2.47 segundos
+Acurácia: 1.0
+Testando com features de 266 a 280
+Tempo de treinamento: 2.63 segundos
+Acurácia: 1.0
+Testando com features de 280 a 294
+Tempo de treinamento: 2.46 segundos
+Acurácia: 1.0
+Testando com features de 294 a 308
+Tempo de treinamento: 2.46 segundos
+Acurácia: 1.0
+Testando com features de 308 a 322
+Tempo de treinamento: 2.35 segundos
+Acurácia: 1.0
+Testando com features de 322 a 336
+Tempo de treinamento: 2.41 segundos
+Acurácia: 1.0
+Testando com features de 336 a 350
+Tempo de treinamento: 2.36 segundos
+Acurácia: 1.0
+Testando com features de 350 a 364
+Tempo de treinamento: 2.61 segundos
+Acurácia: 1.0
+Testando com features de 364 a 378
+Tempo de treinamento: 2.37 segundos
+Acurácia: 1.0
+Testando com features de 378 a 392
+Tempo de treinamento: 2.44 segundos
+Acurácia: 1.0
+Testando com features de 392 a 406
+Tempo de treinamento: 2.39 segundos
+Acurácia: 1.0
+Testando com features de 434 a 448
+Tempo de treinamento: 2.72 segundos
+Acurácia: 1.0
+Testando com features de 448 a 462
+Tempo de treinamento: 3.09 segundos
+Acurácia: 1.0
+Testando com features de 462 a 476
+Tempo de treinamento: 2.75 segundos
+Acurácia: 1.0
+Testando com features de 476 a 490
+Tempo de treinamento: 2.74 segundos
+Acurácia: 1.0
+Testando com features de 490 a 504
+Tempo de treinamento: 3.14 segundos
+Acurácia: 1.0
+Testando com features de 504 a 518
+Tempo de treinamento: 2.54 segundos
+Acurácia: 1.0
+Testando com features de 518 a 532
+Tempo de treinamento: 2.83 segundos
+Acurácia: 1.0
+Testando com features de 532 a 546

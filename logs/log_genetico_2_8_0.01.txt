@@ -1,0 +1,38 @@
+Tempo de treinamento (GA): 11.07 segundos
+Tempo de treinamento (GA): 10.0 segundos
+Tempo de treinamento (GA): 11.06 segundos
+Tempo de treinamento (GA): 10.47 segundos
+Tempo de treinamento (GA): 12.43 segundos
+Tempo de treinamento (GA): 9.47 segundos
+Tempo de treinamento (GA): 9.01 segundos
+Tempo de treinamento (GA): 10.73 segundos
+Tempo de treinamento (GA): 10.88 segundos
+Tempo de treinamento (GA): 9.13 segundos
+Tempo de treinamento (GA): 8.91 segundos
+Tempo de treinamento (GA): 9.33 segundos
+Tempo de treinamento (GA): 12.73 segundos
+Tempo de treinamento (GA): 15.04 segundos
+Tempo de treinamento (GA): 15.78 segundos
+Tempo de treinamento (GA): 13.66 segundos
+Geração 1: melhor fitness = 0.8546
+Tempo de treinamento (GA): 15.15 segundos
+Tempo de treinamento (GA): 11.88 segundos
+Tempo de treinamento (GA): 13.18 segundos
+Tempo de treinamento (GA): 13.3 segundos
+Tempo de treinamento (GA): 10.82 segundos
+Tempo de treinamento (GA): 13.02 segundos
+Tempo de treinamento (GA): 10.44 segundos
+Tempo de treinamento (GA): 9.1 segundos
+Tempo de treinamento (GA): 11.01 segundos
+Tempo de treinamento (GA): 10.92 segundos
+Tempo de treinamento (GA): 13.22 segundos
+Tempo de treinamento (GA): 10.45 segundos
+Tempo de treinamento (GA): 10.98 segundos
+Tempo de treinamento (GA): 9.82 segundos
+Tempo de treinamento (GA): 9.2 segundos
+Tempo de treinamento (GA): 9.3 segundos
+Geração 2: melhor fitness = 0.8546
+Tempo para decidir as features: 366.17 segundos
+Tempo de treinamento (modelo final): 9.48 segundos
+Acurácia no conjunto de teste com features selecionadas: 0.8751
+Número de features selecionadas: 356

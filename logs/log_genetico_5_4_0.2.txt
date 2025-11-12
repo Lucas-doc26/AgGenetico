@@ -1,0 +1,49 @@
+Tempo de treinamento (GA): 10.01 segundos
+Tempo de treinamento (GA): 11.58 segundos
+Tempo de treinamento (GA): 11.93 segundos
+Tempo de treinamento (GA): 16.48 segundos
+Tempo de treinamento (GA): 16.7 segundos
+Tempo de treinamento (GA): 17.76 segundos
+Tempo de treinamento (GA): 10.57 segundos
+Tempo de treinamento (GA): 10.16 segundos
+Geração 1: melhor fitness = 0.8510
+Tempo de treinamento (GA): 10.88 segundos
+Tempo de treinamento (GA): 12.05 segundos
+Tempo de treinamento (GA): 10.59 segundos
+Tempo de treinamento (GA): 11.43 segundos
+Tempo de treinamento (GA): 14.11 segundos
+Tempo de treinamento (GA): 10.51 segundos
+Tempo de treinamento (GA): 10.88 segundos
+Tempo de treinamento (GA): 10.27 segundos
+Geração 2: melhor fitness = 0.8510
+Tempo de treinamento (GA): 10.63 segundos
+Tempo de treinamento (GA): 10.67 segundos
+Tempo de treinamento (GA): 10.36 segundos
+Tempo de treinamento (GA): 10.31 segundos
+Tempo de treinamento (GA): 10.73 segundos
+Tempo de treinamento (GA): 10.76 segundos
+Tempo de treinamento (GA): 11.23 segundos
+Tempo de treinamento (GA): 12.08 segundos
+Geração 3: melhor fitness = 0.8526
+Tempo de treinamento (GA): 10.72 segundos
+Tempo de treinamento (GA): 11.07 segundos
+Tempo de treinamento (GA): 9.61 segundos
+Tempo de treinamento (GA): 10.45 segundos
+Tempo de treinamento (GA): 10.65 segundos
+Tempo de treinamento (GA): 10.29 segundos
+Tempo de treinamento (GA): 11.01 segundos
+Tempo de treinamento (GA): 9.59 segundos
+Geração 4: melhor fitness = 0.8526
+Tempo de treinamento (GA): 13.25 segundos
+Tempo de treinamento (GA): 15.2 segundos
+Tempo de treinamento (GA): 15.99 segundos
+Tempo de treinamento (GA): 9.68 segundos
+Tempo de treinamento (GA): 10.9 segundos
+Tempo de treinamento (GA): 10.76 segundos
+Tempo de treinamento (GA): 12.02 segundos
+Tempo de treinamento (GA): 9.53 segundos
+Geração 5: melhor fitness = 0.8526
+Tempo para decidir as features: 469.36 segundos
+Tempo de treinamento (modelo final): 9.77 segundos
+Acurácia no conjunto de teste com features selecionadas: 0.8739
+Número de features selecionadas: 372

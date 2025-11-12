@@ -47,10 +47,15 @@ def forward_selection(x_train, y_train, valores, conjuntos_selecionados):
     return melhor_acuracia, melhor_conjunto
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--features_por_conjuto', type=int, default=28)
+    args = parser.parse_args()
+
     clf = tree.DecisionTreeClassifier(random_state=1)
     n_features = 784
-    n_features_por_conjunto = 7
-    valores = np.arange(0, n_features + 1, n_features_por_conjunto)
+    valores = np.arange(0, n_features + 1, args.features_por_conjuto)
 
     train = pd.read_csv('mnist_train.csv')
     y_train = train['label'].values 
@@ -65,8 +70,10 @@ if __name__ == "__main__":
 
     inicio_escolha_features = time.time()
 
+    iteracoes = len(valores) // 3
+
     #limitando por iterações 
-    for etapa in range(40):
+    for etapa in range(iteracoes):
         print("----------------------------------------")
         melhor_acuracia, melhor_conjunto = forward_selection(
             x_train, y_train,  valores, conjuntos_selecionados

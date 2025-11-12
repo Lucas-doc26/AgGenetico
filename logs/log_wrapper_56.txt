@@ -1,0 +1,207 @@
+----------------------------------------
+Testando com features de 0 a 56
+Tempo de treinamento: 0.02 segundos
+Acurácia: 0.11673333333333333
+Testando com features de 56 a 112
+Tempo de treinamento: 0.14 segundos
+Acurácia: 0.25961666666666666
+Testando com features de 112 a 168
+Tempo de treinamento: 0.51 segundos
+Acurácia: 0.8122166666666667
+Testando com features de 168 a 224
+Tempo de treinamento: 0.97 segundos
+Acurácia: 0.9911166666666666
+Testando com features de 224 a 280
+Tempo de treinamento: 1.09 segundos
+Acurácia: 0.9993666666666666
+Testando com features de 280 a 336
+Tempo de treinamento: 1.05 segundos
+Acurácia: 0.9996166666666667
+Testando com features de 336 a 392
+Tempo de treinamento: 1.04 segundos
+Acurácia: 0.9995833333333334
+Testando com features de 392 a 448
+Tempo de treinamento: 1.05 segundos
+Acurácia: 0.9996833333333334
+Testando com features de 448 a 504
+Tempo de treinamento: 1.02 segundos
+Acurácia: 0.9997666666666667
+Testando com features de 504 a 560
+Tempo de treinamento: 1.0 segundos
+Acurácia: 0.9987333333333334
+Testando com features de 560 a 616
+Tempo de treinamento: 0.97 segundos
+Acurácia: 0.99765
+Testando com features de 616 a 672
+Tempo de treinamento: 0.75 segundos
+Acurácia: 0.96495
+Testando com features de 672 a 728
+Tempo de treinamento: 0.31 segundos
+Acurácia: 0.5989166666666667
+Testando com features de 728 a 784
+Tempo de treinamento: 0.07 segundos
+Acurácia: 0.2134
+Conjunto selecionado: (np.int64(448), np.int64(504)) com acurácia 0.9998
+Conjuntos atuais: [(np.int64(448), np.int64(504))]
+----------------------------------------
+Testando com features de 0 a 56
+Tempo de treinamento: 1.07 segundos
+Acurácia: 0.9997666666666667
+Testando com features de 56 a 112
+Tempo de treinamento: 1.28 segundos
+Acurácia: 0.9997666666666667
+Testando com features de 112 a 168
+Tempo de treinamento: 1.8 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 168 a 224
+Tempo de treinamento: 2.28 segundos
+Acurácia: 1.0
+Testando com features de 224 a 280
+Tempo de treinamento: 2.36 segundos
+Acurácia: 1.0
+Testando com features de 280 a 336
+Tempo de treinamento: 2.24 segundos
+Acurácia: 1.0
+Testando com features de 336 a 392
+Tempo de treinamento: 2.3 segundos
+Acurácia: 1.0
+Testando com features de 392 a 448
+Tempo de treinamento: 2.2 segundos
+Acurácia: 1.0
+Testando com features de 504 a 560
+Tempo de treinamento: 2.15 segundos
+Acurácia: 1.0
+Testando com features de 560 a 616
+Tempo de treinamento: 2.58 segundos
+Acurácia: 1.0
+Testando com features de 616 a 672
+Tempo de treinamento: 2.24 segundos
+Acurácia: 1.0
+Testando com features de 672 a 728
+Tempo de treinamento: 1.57 segundos
+Acurácia: 0.9999833333333333
+Testando com features de 728 a 784
+Tempo de treinamento: 1.23 segundos
+Acurácia: 0.9998333333333334
+Conjunto selecionado: (np.int64(168), np.int64(224)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224))]
+----------------------------------------
+Testando com features de 0 a 56
+Tempo de treinamento: 2.32 segundos
+Acurácia: 1.0
+Testando com features de 56 a 112
+Tempo de treinamento: 2.6 segundos
+Acurácia: 1.0
+Testando com features de 112 a 168
+Tempo de treinamento: 3.12 segundos
+Acurácia: 1.0
+Testando com features de 224 a 280
+Tempo de treinamento: 3.65 segundos
+Acurácia: 1.0
+Testando com features de 280 a 336
+Tempo de treinamento: 3.51 segundos
+Acurácia: 1.0
+Testando com features de 336 a 392
+Tempo de treinamento: 3.65 segundos
+Acurácia: 1.0
+Testando com features de 392 a 448
+Tempo de treinamento: 3.52 segundos
+Acurácia: 1.0
+Testando com features de 504 a 560
+Tempo de treinamento: 3.52 segundos
+Acurácia: 1.0
+Testando com features de 560 a 616
+Tempo de treinamento: 3.72 segundos
+Acurácia: 1.0
+Testando com features de 616 a 672
+Tempo de treinamento: 3.4 segundos
+Acurácia: 1.0
+Testando com features de 672 a 728
+Tempo de treinamento: 2.94 segundos
+Acurácia: 1.0
+Testando com features de 728 a 784
+Tempo de treinamento: 2.56 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(0), np.int64(56)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56))]
+----------------------------------------
+Testando com features de 56 a 112
+Tempo de treinamento: 2.59 segundos
+Acurácia: 1.0
+Testando com features de 112 a 168
+Tempo de treinamento: 3.27 segundos
+Acurácia: 1.0
+Testando com features de 224 a 280
+Tempo de treinamento: 3.63 segundos
+Acurácia: 1.0
+Testando com features de 280 a 336
+Tempo de treinamento: 3.61 segundos
+Acurácia: 1.0
+Testando com features de 336 a 392
+Tempo de treinamento: 3.65 segundos
+Acurácia: 1.0
+Testando com features de 392 a 448
+Tempo de treinamento: 3.56 segundos
+Acurácia: 1.0
+Testando com features de 504 a 560
+Tempo de treinamento: 3.48 segundos
+Acurácia: 1.0
+Testando com features de 560 a 616
+Tempo de treinamento: 3.78 segundos
+Acurácia: 1.0
+Testando com features de 616 a 672
+Tempo de treinamento: 3.35 segundos
+Acurácia: 1.0
+Testando com features de 672 a 728
+Tempo de treinamento: 2.99 segundos
+Acurácia: 1.0
+Testando com features de 728 a 784
+Tempo de treinamento: 2.59 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(56), np.int64(112)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56)), (np.int64(56), np.int64(112))]
+----------------------------------------
+Testando com features de 112 a 168
+Tempo de treinamento: 3.47 segundos
+Acurácia: 1.0
+Testando com features de 224 a 280
+Tempo de treinamento: 4.17 segundos
+Acurácia: 1.0
+Testando com features de 280 a 336
+Tempo de treinamento: 4.12 segundos
+Acurácia: 1.0
+Testando com features de 336 a 392
+Tempo de treinamento: 4.05 segundos
+Acurácia: 1.0
+Testando com features de 392 a 448
+Tempo de treinamento: 3.91 segundos
+Acurácia: 1.0
+Testando com features de 504 a 560
+Tempo de treinamento: 3.86 segundos
+Acurácia: 1.0
+Testando com features de 560 a 616
+Tempo de treinamento: 3.9 segundos
+Acurácia: 1.0
+Testando com features de 616 a 672
+Tempo de treinamento: 3.84 segundos
+Acurácia: 1.0
+Testando com features de 672 a 728
+Tempo de treinamento: 3.34 segundos
+Acurácia: 1.0
+Testando com features de 728 a 784
+Tempo de treinamento: 3.08 segundos
+Acurácia: 1.0
+Conjunto selecionado: (np.int64(112), np.int64(168)) com acurácia 1.0000
+Conjuntos atuais: [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56)), (np.int64(56), np.int64(112)), (np.int64(112), np.int64(168))]
+Etapa 1: Acurácia = 0.9998, Bloco adicionado = (np.int64(448), np.int64(504)), Conjuntos usados = [(np.int64(448), np.int64(504))]
+Etapa 2: Acurácia = 1.0000, Bloco adicionado = (np.int64(168), np.int64(224)), Conjuntos usados = [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224))]
+Etapa 3: Acurácia = 1.0000, Bloco adicionado = (np.int64(0), np.int64(56)), Conjuntos usados = [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56))]
+Etapa 4: Acurácia = 1.0000, Bloco adicionado = (np.int64(56), np.int64(112)), Conjuntos usados = [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56)), (np.int64(56), np.int64(112))]
+Etapa 5: Acurácia = 1.0000, Bloco adicionado = (np.int64(112), np.int64(168)), Conjuntos usados = [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56)), (np.int64(56), np.int64(112)), (np.int64(112), np.int64(168))]
+
+
+Métricas finais:
+Tempo total usado para seleção das features: 151.75 segundos
+Tempo de treinamento final: 3.48 segundos
+Conjuntos selecionados: [(np.int64(448), np.int64(504)), (np.int64(168), np.int64(224)), (np.int64(0), np.int64(56)), (np.int64(56), np.int64(112)), (np.int64(112), np.int64(168))]
+Acurácia no conjunto de teste: 0.7793
