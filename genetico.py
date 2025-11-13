@@ -9,23 +9,28 @@ def individuo(n_genes):
 
 def cruzar(mae, pai):
     ponto_de_corte = len(mae) // 2
+    #pega exatamente metade de cada um
     filho1 = np.concatenate((mae[:ponto_de_corte], pai[ponto_de_corte:]))
     filho2 = np.concatenate((pai[:ponto_de_corte], mae[ponto_de_corte:]))
     return filho1, filho2
 
 def mutar(individuo, taxa_de_mutacao=0.05):
     for i in range(len(individuo)):
+        #muta com uma certa probabilidade
         if np.random.rand() < taxa_de_mutacao:
             individuo[i] = 1 - individuo[i]
     return individuo
 
 def funcao_aptidao(individuo, x_train, y_train):
+
+    # evita indivíduos sem features selecionadas
     if np.sum(individuo) == 0:
         return 0  
     
 
     x_filtrado = x_train[:, individuo == 1] #pega todas as colunas onde o valor é 1
     
+    #faz o treinamento e calcula a acurácia no treino msm
     clf = tree.DecisionTreeClassifier(random_state=1)
     inicio = time.time()
     clf.fit(x_filtrado, y_train)
@@ -36,6 +41,7 @@ def funcao_aptidao(individuo, x_train, y_train):
     acuracia = accuracy_score(y_train, y_pred)
     porc_features = np.sum(individuo) / len(individuo)
     
+    #penaliza muitas features e recompensa acurácias mais altas
     apitdao = 0.9 * acuracia - 0.1 * porc_features
     return apitdao
 
@@ -85,7 +91,7 @@ def ga_selecao_features(x_train, y_train, n_geracoes=20, n_pop=20, taxa_mut=0.05
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Genetic Algorithm for Feature Selection")
+    parser = argparse.ArgumentParser()
     parser.add_argument('--geracoes', type=int, default=2)
     parser.add_argument('--pop', type=int, default=4)
     parser.add_argument('--mutacao', type=float, default=0.3)
@@ -105,6 +111,7 @@ if __name__ == "__main__":
 
     features_selecionadas = np.where(melhor_individuo == 1)[0]
     
+    #teste no conjunto de teste
     inicio_treino = time.time()
     clf = tree.DecisionTreeClassifier(random_state=1)
     clf.fit(x_train.iloc[:, features_selecionadas], y_train)                                
