@@ -1,0 +1,55 @@
+Tempo de treinamento (GA): 6.88 segundos
+Tempo de treinamento (GA): 6.08 segundos
+Tempo de treinamento (GA): 5.92 segundos
+Tempo de treinamento (GA): 5.83 segundos
+Tempo de treinamento (GA): 6.44 segundos
+Tempo de treinamento (GA): 6.46 segundos
+Tempo de treinamento (GA): 6.31 segundos
+Tempo de treinamento (GA): 6.36 segundos
+Tempo de treinamento (GA): 5.85 segundos
+Tempo de treinamento (GA): 6.77 segundos
+Tempo de treinamento (GA): 7.0 segundos
+Tempo de treinamento (GA): 6.21 segundos
+Tempo de treinamento (GA): 6.39 segundos
+Tempo de treinamento (GA): 6.62 segundos
+Tempo de treinamento (GA): 6.96 segundos
+Tempo de treinamento (GA): 6.22 segundos
+Geração 1: melhor fitness = 0.8519
+Tempo de treinamento (GA): 6.42 segundos
+Tempo de treinamento (GA): 7.07 segundos
+Tempo de treinamento (GA): 6.45 segundos
+Tempo de treinamento (GA): 5.98 segundos
+Tempo de treinamento (GA): 6.65 segundos
+Tempo de treinamento (GA): 6.67 segundos
+Tempo de treinamento (GA): 6.78 segundos
+Tempo de treinamento (GA): 6.74 segundos
+Tempo de treinamento (GA): 6.23 segundos
+Tempo de treinamento (GA): 5.88 segundos
+Tempo de treinamento (GA): 6.65 segundos
+Tempo de treinamento (GA): 6.09 segundos
+Tempo de treinamento (GA): 6.02 segundos
+Tempo de treinamento (GA): 5.48 segundos
+Tempo de treinamento (GA): 6.31 segundos
+Tempo de treinamento (GA): 5.64 segundos
+Geração 2: melhor fitness = 0.8519
+Tempo de treinamento (GA): 5.92 segundos
+Tempo de treinamento (GA): 5.44 segundos
+Tempo de treinamento (GA): 6.01 segundos
+Tempo de treinamento (GA): 6.14 segundos
+Tempo de treinamento (GA): 5.39 segundos
+Tempo de treinamento (GA): 5.23 segundos
+Tempo de treinamento (GA): 7.24 segundos
+Tempo de treinamento (GA): 7.42 segundos
+Tempo de treinamento (GA): 6.34 segundos
+Tempo de treinamento (GA): 5.48 segundos
+Tempo de treinamento (GA): 6.23 segundos
+Tempo de treinamento (GA): 7.5 segundos
+Tempo de treinamento (GA): 6.98 segundos
+Tempo de treinamento (GA): 7.33 segundos
+Tempo de treinamento (GA): 7.45 segundos
+Tempo de treinamento (GA): 7.49 segundos
+Geração 3: melhor fitness = 0.8523
+Tempo para decidir as features: 311.95 segundos
+Tempo de treinamento (modelo final): 6.92 segundos
+Acurácia no conjunto de teste com features selecionadas: 0.8731
+Número de features selecionadas: 374

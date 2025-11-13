@@ -50,9 +50,7 @@ def roleta(populacao, aptidoes):
     probabilidades = [aptidao / soma_aptidoes for aptidao in aptidoes]
     return populacao[np.random.choice(len(populacao), p=probabilidades)]
 
-import numpy as np
-
-def ga_selecao_features(x_train, y_train, n_geracoes=20, n_pop=20, taxa_mut=0.05, n_elite=1):
+def ga_selecao_features(x_train, y_train, n_geracoes=8, n_pop=4, taxa_mut=0.05, n_elite=1):
     n_features = x_train.shape[1]
     populacao = [individuo(n_features) for _ in range(n_pop)]
     
@@ -63,7 +61,7 @@ def ga_selecao_features(x_train, y_train, n_geracoes=20, n_pop=20, taxa_mut=0.05
         elite = [populacao[i].copy() for i in elite_idx]
 
         nova_pop = []
-        # Geração de nova população
+        # geração de nova população
         while len(nova_pop) < (n_pop - n_elite):
             mae = roleta(populacao, aptidoes)
             pai = roleta(populacao, aptidoes)
@@ -72,18 +70,16 @@ def ga_selecao_features(x_train, y_train, n_geracoes=20, n_pop=20, taxa_mut=0.05
             f2 = mutar(f2, taxa_mut)
             nova_pop += [f1, f2]
 
-        # Garante tamanho correto
+        # deixa do tamanho correto
         nova_pop = nova_pop[:n_pop - n_elite]
-        # Adiciona elite
         populacao = nova_pop + elite
 
-        # Atualiza aptidões após gerar nova população
+        # att as aptidões
         aptidoes = [funcao_aptidao(ind, x_train, y_train) for ind in populacao]
         melhor_fit = max(aptidoes)
-        melhor = populacao[np.argmax(aptidoes)]
         print(f"Geração {g+1}: melhor fitness = {melhor_fit:.4f}")
 
-    # Retorna melhor da última geração
+    # retorna melhor da última geração
     melhor = populacao[np.argmax(aptidoes)]
     return melhor
 
